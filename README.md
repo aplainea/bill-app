@@ -6,7 +6,11 @@ Openclassrooms P9
 
 BACK: https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-back
 
+(fork: https://github.com/aplainea/Billed-app-FR-Back)
+
 FRONTEND: https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Front
+
+(fork: https://github.com/aplainea/Billed-app-FR-Front)
 
 # Démarrer le projet
 
